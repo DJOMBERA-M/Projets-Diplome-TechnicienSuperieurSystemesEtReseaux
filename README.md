@@ -1,4 +1,3 @@
-# Projets-Diplome-TechnicienSuperieurSystemesEtReseaux
 # 💻 Projets de formation – Technicien Supérieur Systèmes et Réseaux (TSSR)
 
 Ce dépôt regroupe les projets réalisés dans le cadre de ma formation au titre professionnel de **Technicien Supérieur Systèmes et Réseaux (TSSR)**, un diplôme de **niveau 5 (équivalent Bac +2)** reconnu par l’État.
